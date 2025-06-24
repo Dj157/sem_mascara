@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto tem como objetivo detectar automaticamente pessoas **sem máscara facial** em vídeos de multidões, utilizando técnicas de **Inteligência Artificial (IA)** e **programação paralela** para otimizar o tempo de processamento.  
+Este projeto tem como objetivo detectar automaticamente pessoas **sem máscara facial** em vídeos de multidões, utilizando  **programação paralela** para otimizar o tempo de processamento.  
 A aplicação visa auxiliar políticas de saúde pública, permitindo análise rápida de grandes volumes de vídeo em ambientes como eventos, ruas ou transporte.
 
 link do video utilizado 7.9GB: https://drive.google.com/file/d/1E6oUgTasz6nmu-yKv9NtYcUFMQW7M3MI/view
