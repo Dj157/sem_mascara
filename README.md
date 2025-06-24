@@ -52,7 +52,9 @@ O pipeline foi estruturado de forma modular, com otimização para o MacBook Air
 
 Cada frame do vídeo é processado para identificar rostos e classificar o uso de máscara, como neste exemplo abaixo (rua movimentada, multidão sob chuva):
 
-![Exemplo de frame analisado](frame_00662.jpg)
+![Exemplo de frame analisado]
+
+![frame_06577](https://github.com/user-attachments/assets/5353fd4a-8c57-408d-bff7-8673c760d639)
 
 ---
 
