@@ -2,8 +2,13 @@
 
 ## Introdução
 
-Este projeto tem como objetivo detectar automaticamente pessoas **sem máscara facial** em vídeos de multidões (>8GB), utilizando técnicas de **Inteligência Artificial (IA)** e **programação paralela** para otimizar o tempo de processamento.  
+Este projeto tem como objetivo detectar automaticamente pessoas **sem máscara facial** em vídeos de multidões, utilizando técnicas de **Inteligência Artificial (IA)** e **programação paralela** para otimizar o tempo de processamento.  
 A aplicação visa auxiliar políticas de saúde pública, permitindo análise rápida de grandes volumes de vídeo em ambientes como eventos, ruas ou transporte.
+
+link do video utilizado 7.9GB: https://drive.google.com/file/d/1E6oUgTasz6nmu-yKv9NtYcUFMQW7M3MI/view
+
+link do video partido para fazer testes:https://drive.google.com/drive/folders/1gCbbZeGvEEQuvc0zyyB_4gheStexio2F
+
 
 ---
 
@@ -54,7 +59,7 @@ Cada frame do vídeo é processado para identificar rostos e classificar o uso d
 ## Resultados
 
 Os testes foram realizados em um **MacBook Air M1 (4 núcleos físicos)**.  
-O tempo de execução, speedup e eficiência foram calculados para diferentes números de threads, utilizando um vídeo grande (>8GB).
+O tempo de execução, speedup e eficiência foram calculados para diferentes números de threads, utilizando um vídeo grande.
 
 | Threads | Tempo (s) | Speedup | Eficiência (%) |
 |---------|-----------|---------|---------------|
