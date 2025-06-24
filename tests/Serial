@@ -1,0 +1,4 @@
+/Users/danielzakhourjreige/.cache/torch/hub/ultralytics_yolov5_master/models/common.py:906: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with amp.autocast(autocast):
+Threads: 1 | Tempo: 2939.79s | Detecções: 1878
+Total sem máscara: 1644, com máscara: 234
