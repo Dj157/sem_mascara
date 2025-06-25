@@ -74,6 +74,10 @@ O tempo de execução, speedup e eficiência foram calculados para diferentes n�
 - **Speedup:** Tempo sequencial (1 thread) dividido pelo tempo paralelo.
 - **Eficiência:** Speedup / nº de threads × 100%
 
+ **Detecções:**  1878 pessoas
+Total com máscara: 234
+sem máscara: 1644
+
 **Observações:**
 - O melhor resultado foi atingido com 4 threads, respeitando o limite físico do M1.
 - Usar mais threads não traz ganhos reais (por limitação de hardware e overhead de gerenciamento).
